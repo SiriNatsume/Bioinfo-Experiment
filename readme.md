@@ -5,7 +5,7 @@
 ## 如何使用
 点击文档中对应名称即可跳转相应教学文档。
 ## 文档
-- **[Indicate nucleotide residues crucial for rapamycin binding to the ribosome in a figure made using UCSF Chimera X (with rapamycin present in it), and hide all other irrelevant nucleotide residues]()**
+- **[Indicate nucleotide residues crucial for rapamycin binding to the ribosome in a figure made using UCSF Chimera X (with rapamycin present in it), and hide all other irrelevant nucleotide residues](https://github.com/SiriNatsume/Bioinfo-Experiment/blob/main/00.pdf)**
   - 一种不需要在 PDB 里数残基的，优雅的完成方式。
 ## 其他
 - 该仓库仍在更新 ~~也可能不会更新了~~
