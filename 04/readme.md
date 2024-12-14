@@ -13,7 +13,7 @@
 1. 克隆本仓库至本地，不破坏仓库文件目录结构
 2. 安装所需依赖
 3. 准备 mapping_data.csv 数据文件
-    - 该文件由 PCA 直接生成，详见 [PCA on Python](/SCUT-Bioinfo/02)，请将其置于本仓库根目录。
+    - 该文件由 PCA 直接生成，详见 [PCA on Python](https://github.com/SiriNatsume/Bioinfo-Experiment/tree/main/02)，请将其置于本仓库根目录。
 4. 运行 volcano.py ，等待结果输出
 5. 期望输出
     - 火山图图片将在新窗口直接打开。
