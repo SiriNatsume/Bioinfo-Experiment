@@ -14,9 +14,25 @@
   - GSEA on Python
   - 一种通过 python 完成 GSEA 并生成前十富集表格的方式。
   - 该文档由 [@SiriNatsume](https://github.com/SiriNatsume) 贡献。
+- **[02](02)**
+  - PCA on Python
+  - 一种无需过多配置的，通过 python 按组合并样本并进行 PCA 的方式。
+  - 该文档由 [@SiriNatsume](https://github.com/SiriNatsume) 贡献。
+- **[03](03)**
+  - Heatmap on Python
+  - 一种无需过多配置的，通过 python 优雅地进行 Z-score 标准化并绘制分层聚类图的方式。
+  - 该文档由 [@SiriNatsume](https://github.com/SiriNatsume) 贡献。
+- **[04](04)**
+  - Volcano on Python
+  - 一种无需过多配置的，通过 python 优雅地绘制火山图并进行标注的方式。
+  - 该文档由 [@SiriNatsume](https://github.com/SiriNatsume) 贡献。
+- **[05](05)**
+  - ChIP on Python
+  - 一种通过 python 对 ChIP-seq 信号强度进行比较的方式。
+  - 该文档由 [@SiriNatsume](https://github.com/SiriNatsume) 贡献。
 ## 免责声明
-  - 您知悉且同意，本仓库所有文档均为自发整理，**不代表** 标准做法，**不保证** 完全正确，**不承诺** 100% 得分率。
-  - 本仓库旨在分享生物信息学操作流程，**不提倡** 抄袭等行为，**不提供** 答案。
+  - 您知悉且同意，本仓库所有文档均为自发整理，**不代表**标准做法，**不保证**完全正确，**不承诺** 100% 得分率。
+  - 本仓库旨在分享生物信息学操作流程，**不提倡**抄袭等行为，**不提供**答案。
 ## 其他
 - 该仓库仍在更新 ~~也可能不会更新了~~
 - 如果你也想贡献本仓库，请将文档打包成 **PDF** 或 **markdown** 格式提出 issue 或 pr 
