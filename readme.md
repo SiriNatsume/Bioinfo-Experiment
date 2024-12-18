@@ -38,6 +38,10 @@
   - 一份通过 [Benchling](https://www.benchling.com/) 完成质粒构建的教程。
   - [腾讯文档查看请点击](https://docs.qq.com/pdf/DVkptUEZGdFZWcVdV)。
   - 该文档由 [@yyyyyyy0713](https://github.com/yyyyyyy0713) 贡献。
+- **[08](08)**
+  - VolcanoGSEA on Python
+  - 一种可以直接使用的，基于 python 优雅地绘制火山图并执行 GSEA 的方式。
+  - 该文档由 [@SiriNatsume](https://github.com/SiriNatsume) 贡献。
 ## 免责声明
   - 您知悉且同意，本仓库所有文档均为自发整理，**不代表**标准做法，**不保证**完全正确，**不承诺** 100% 得分率。
   - 本仓库旨在分享生物信息学操作流程，**不提倡**抄袭等行为，**不提供**答案。
