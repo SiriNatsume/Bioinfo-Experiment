@@ -1,5 +1,5 @@
 <div align="center">
-     <img alt="img.jpg" height="200" src="https://github.com/Hydrogens2/Potato-plugins/raw/main/potato_avatar.jpg" width="200"/>
+     <img alt="img.jpg" height="200" src="https://github.com/SiriNatsume/Bioinfo-Experiment/blob/main/08/img.jpg" width="200"/>
 </div>
 <h1 align="center">VolcanoGSEA on Python</h1>
 
