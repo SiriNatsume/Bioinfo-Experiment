@@ -15,7 +15,7 @@
 
 
 ## 如何使用
-1. 从 release 处下载可执行文件（VolcanoGSEA.exe），解压到任意目录
+1. 从 [release](https://github.com/SiriNatsume/Bioinfo-Experiment/releases) 处下载可执行文件（VolcanoGSEA.exe），解压到任意目录
 2. 数据文件格式如下
     - | Hugo_Symbol | TCGA-55-6980-11A-01R-1949-07 | ... |
       |:------------|:-----------------------------|:----|
