@@ -8,6 +8,8 @@ from tqdm import tqdm
 import os
 import sys
 
+Declare = f'Software Name: VolcanoGSEA\nVersion: 1.0.0\nAuthor: Siri Natsume\nCopyright: © 2024 Siri Natsume\n\nLicense: Licensed under the MIT License\n\n'
+print(Declare)
 
 print(f'Loading: 正在读取并检查输入文件。')
 try :
